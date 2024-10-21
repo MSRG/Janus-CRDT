@@ -1,0 +1,10 @@
+{
+    "addresses": ["192.168.41.243:6000", "192.168.41.56:6000", "192.168.41.177:6000",  "192.168.41.193:6000"],
+    "clientThreads": 12,
+    "typeCode": "bank",
+    "numObjs": 100,
+    "duration": 5,
+    "opsRatio": [1, 0, 0], 
+    "safeRatio": 0,
+    "targetOutputTPS": 1000
+}

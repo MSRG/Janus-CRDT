@@ -1,0 +1,10 @@
+{
+    "addresses": ["127.0.0.1:6000", "127.0.0.1:6001", "127.0.0.1:6002", "127.0.0.1:6003"],
+    "clientThreads": 12,
+    "typeCode": "pnc",
+    "numObjs": 100,
+    "duration": 45,
+    "opsRatio": [0.25, 0.25, 0.5],
+    "safeRatio": 0.5,
+    "targetOutputTPS": 180000
+}
