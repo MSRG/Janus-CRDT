@@ -1,0 +1,32 @@
+[
+    {
+        "nodeid": 0, 
+        "address": "127.0.0.1",
+        "port": 5000,
+        "isSelf": false
+    },
+
+    {
+        "nodeid": 1,
+        "address": "127.0.0.1",
+        "port": 5001,
+        "isSelf": false
+    },
+
+    {
+        "nodeid": 2, 
+        "address": "127.0.0.1",
+        "port": 5002,
+        "isSelf": false
+    },
+
+    {
+        "nodeid": 3,
+        "address": "127.0.0.1",
+        "port": 5003,
+        "isSelf": true
+    }
+
+]
+
+
