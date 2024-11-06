@@ -1,5 +1,6 @@
-Janus is a demo for using [Narwhal](https://github.com/MystenLabs/sui/tree/main/narwhal) DAG-Based consensus algorithm to achieve BFT and serializable operations with CRDTs.
+Janus is a demo for Reliable CRDT (Paper link: Coming Soon!) that uses DAG-Based consensus algorithm to achieve BFT and serializable operations with CRDTs.
 Janus works as a Key-value database cluster with PN-Counter and OR-Set support, you can use Janus client to interact with the any of the server.
+
 
 ## How to run
 ### Requirements
