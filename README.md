@@ -1,4 +1,4 @@
-Janus is a demo for Reliable CRDT (Paper link: Coming Soon!) that uses DAG-Based consensus algorithm to achieve BFT and serializable operations with CRDTs.
+Janus is a demo for [Reliable CRDT](https://github.com/MSRG/Janus-CRDT/blob/main/Making%20CRDTs%20Not%20So%20Eventual.pdf)  that uses DAG-Based consensus algorithm to achieve BFT and serializable operations with CRDTs.
 Janus works as a Key-value database cluster with PN-Counter and OR-Set support, you can use Janus client to interact with the any of the server.
 
 
